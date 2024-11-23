@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0AC54FD-974F-450A-BAED-B9DBD286DD04}|SinglyLinkedListProject.vcxproj|C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedListProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0AC54FD-974F-450A-BAED-B9DBD286DD04}|SinglyLinkedListProject.vcxproj|solutionrelative:SinglyLinkedListProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{0AB4B9B3-5672-43EE-8660-C4653C8F0994}|solutionrelative:SinglyLinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinglyLinkedListProject.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedListProject.cpp",
+              "RelativeDocumentMoniker": "SinglyLinkedListProject.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedListProject.cpp",
+              "RelativeToolTip": "SinglyLinkedListProject.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T16:17:01.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T16:02:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinglyLinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedList.cpp",
+              "RelativeDocumentMoniker": "SinglyLinkedList.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\SinglyLinkedListProject\\SinglyLinkedList.cpp",
+              "RelativeToolTip": "SinglyLinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T16:01:47.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
